@@ -220,9 +220,12 @@ footer input[type="text"],footer input[type="email"],footer textarea{
     border-radius: 5px;
     background-color:white;
     display: block;
-    padding: 18px 30px;
+    padding: 10px 20px;
     border:none ;
-    margin: 20px;
+    margin-bottom: 24px;
 
 }
 
+.footer input[type="submit"]{
+    display: block;
+}
